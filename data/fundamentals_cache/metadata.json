@@ -6980,7 +6980,7 @@
     "in_earnings_season": true
   },
   "YEXT": {
-    "last_updated": "2025-12-04T14:20:22.578845",
+    "last_updated": "2026-07-09T19:31:20.220869",
     "in_earnings_season": false
   },
   "YUM": {
@@ -9745,6 +9745,10 @@
   },
   "TGLS": {
     "last_updated": "2026-07-08T18:08:22.626492",
+    "in_earnings_season": false
+  },
+  "STUB": {
+    "last_updated": "2026-07-09T19:22:39.347004",
     "in_earnings_season": false
   }
 }
