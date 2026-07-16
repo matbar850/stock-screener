@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MPAA",
-    "fetch_date": "2026-07-08T17:50:11.367992",
+    "fetch_date": "2026-07-16T17:27:22.440742",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 193105000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 1.87,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-08T17:50:11.369790"
+  "fetched_at": "2026-07-16T17:27:22.441961"
 }
