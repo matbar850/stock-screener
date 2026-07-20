@@ -52,7 +52,7 @@
     "in_earnings_season": true
   },
   "AARD": {
-    "last_updated": "2026-05-13T14:51:41.547029",
+    "last_updated": "2026-07-20T17:09:29.675512",
     "in_earnings_season": true
   },
   "AB": {
@@ -3288,7 +3288,7 @@
     "in_earnings_season": true
   },
   "ICE": {
-    "last_updated": "2026-04-30T14:44:34.857793",
+    "last_updated": "2026-07-20T17:37:35.202862",
     "in_earnings_season": true
   },
   "ICUI": {
@@ -5232,7 +5232,7 @@
     "in_earnings_season": false
   },
   "QLYS": {
-    "last_updated": "2026-05-04T15:07:58.071187",
+    "last_updated": "2026-07-20T17:55:41.103662",
     "in_earnings_season": true
   },
   "QNST": {
@@ -6124,7 +6124,7 @@
     "in_earnings_season": true
   },
   "TECH": {
-    "last_updated": "2026-05-01T14:39:38.335255",
+    "last_updated": "2026-07-20T18:04:07.207390",
     "in_earnings_season": true
   },
   "TECX": {
@@ -6244,7 +6244,7 @@
     "in_earnings_season": true
   },
   "TLK": {
-    "last_updated": "2026-02-13T14:14:51.021599",
+    "last_updated": "2026-07-20T18:04:47.246313",
     "in_earnings_season": true
   },
   "TLN": {
@@ -8100,8 +8100,8 @@
     "in_earnings_season": true
   },
   "TMUS": {
-    "last_updated": "2026-07-10T19:04:43.596680",
-    "in_earnings_season": false
+    "last_updated": "2026-07-20T18:05:03.206527",
+    "in_earnings_season": true
   },
   "MCRI": {
     "last_updated": "2026-07-15T17:28:21.373060",
@@ -8732,8 +8732,8 @@
     "in_earnings_season": true
   },
   "ELMD": {
-    "last_updated": "2026-07-10T18:27:49.919476",
-    "in_earnings_season": false
+    "last_updated": "2026-07-20T17:28:11.608272",
+    "in_earnings_season": true
   },
   "HSTM": {
     "last_updated": "2026-07-15T17:20:28.898011",
@@ -8880,7 +8880,7 @@
     "in_earnings_season": true
   },
   "RCEL": {
-    "last_updated": "2026-04-17T14:35:21.492234",
+    "last_updated": "2026-07-20T17:56:20.221558",
     "in_earnings_season": true
   },
   "BFC": {
@@ -9200,7 +9200,7 @@
     "in_earnings_season": true
   },
   "STRT": {
-    "last_updated": "2026-05-11T16:23:34.851172",
+    "last_updated": "2026-07-20T18:03:02.486749",
     "in_earnings_season": true
   },
   "TYL": {
@@ -9777,6 +9777,14 @@
   },
   "WOLF": {
     "last_updated": "2026-07-16T17:51:46.709709",
+    "in_earnings_season": true
+  },
+  "MCGA": {
+    "last_updated": "2026-07-20T17:44:32.839354",
+    "in_earnings_season": true
+  },
+  "NP": {
+    "last_updated": "2026-07-20T17:48:52.859755",
     "in_earnings_season": true
   }
 }
