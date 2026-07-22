@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FANG",
-    "fetch_date": "2026-07-15T17:13:31.339101",
+    "fetch_date": "2026-07-22T17:21:19.041835",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 4031000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.019,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:13:31.340791"
+  "fetched_at": "2026-07-22T17:21:19.043671"
 }

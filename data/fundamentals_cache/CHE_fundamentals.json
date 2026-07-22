@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CHE",
-    "fetch_date": "2026-07-15T17:04:47.475523",
+    "fetch_date": "2026-07-22T17:12:37.256941",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 646943000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.011,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:04:47.477411"
+  "fetched_at": "2026-07-22T17:12:37.259865"
 }

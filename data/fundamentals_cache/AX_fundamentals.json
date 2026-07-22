@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AX",
-    "fetch_date": "2026-07-15T16:58:53.934653",
+    "fetch_date": "2026-07-22T17:06:43.769306",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 304660000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 18.78453038674032,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T16:58:53.935337"
+  "fetched_at": "2026-07-22T17:06:43.769992"
 }

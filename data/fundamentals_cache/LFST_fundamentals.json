@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LFST",
-    "fetch_date": "2026-07-15T17:25:56.007200",
+    "fetch_date": "2026-07-22T17:33:41.079279",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 332970000.0,
       "2025-06-30 00:00:00": 345311000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 5.52,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:25:56.008481"
+  "fetched_at": "2026-07-22T17:33:41.080675"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SHEN",
-    "fetch_date": "2026-07-15T17:43:45.701707",
+    "fetch_date": "2026-07-22T17:51:33.426286",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 87898000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -8.71,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:43:45.703072"
+  "fetched_at": "2026-07-22T17:51:33.427652"
 }

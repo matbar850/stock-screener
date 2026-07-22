@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CMP",
-    "fetch_date": "2026-07-15T17:05:52.608190",
+    "fetch_date": "2026-07-22T17:13:43.436413",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 494600000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.394,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:05:52.609960"
+  "fetched_at": "2026-07-22T17:13:43.438138"
 }

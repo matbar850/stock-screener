@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PENG",
-    "fetch_date": "2026-07-15T17:36:44.053559",
+    "fetch_date": "2026-07-22T17:44:29.791639",
     "quarterly_revenue": {
       "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 1.041,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:36:44.056410"
+  "fetched_at": "2026-07-22T17:44:29.793468"
 }

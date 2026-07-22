@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WK",
-    "fetch_date": "2026-07-15T17:53:56.789976",
+    "fetch_date": "2026-07-22T18:01:44.249867",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 206280000.0,
       "2025-06-30 00:00:00": 215187000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 6.2,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:53:56.791415"
+  "fetched_at": "2026-07-22T18:01:44.251242"
 }

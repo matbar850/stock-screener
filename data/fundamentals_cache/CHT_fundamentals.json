@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CHT",
-    "fetch_date": "2026-07-15T17:05:03.563084",
+    "fetch_date": "2026-07-22T17:12:54.368732",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 55428544000.0,
       "2025-06-30 00:00:00": 56396180000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.294,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:05:03.565588"
+  "fetched_at": "2026-07-22T17:12:54.370856"
 }

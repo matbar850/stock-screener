@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ALNT",
-    "fetch_date": "2026-07-15T16:55:33.709180",
+    "fetch_date": "2026-07-22T17:03:23.852778",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 132803000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.793,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T16:55:33.710981"
+  "fetched_at": "2026-07-22T17:03:23.854546"
 }

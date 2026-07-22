@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LCII",
-    "fetch_date": "2026-07-15T17:25:35.072853",
+    "fetch_date": "2026-07-22T17:33:20.265108",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 1045590000.0,
       "2025-06-30 00:00:00": 1107250000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.765,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:25:35.075854"
+  "fetched_at": "2026-07-22T17:33:20.266854"
 }

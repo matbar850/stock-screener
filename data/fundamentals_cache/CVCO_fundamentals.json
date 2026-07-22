@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CVCO",
-    "fetch_date": "2026-07-15T17:08:08.148420",
+    "fetch_date": "2026-07-22T17:15:56.476877",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 508358000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.537,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:08:08.150989"
+  "fetched_at": "2026-07-22T17:15:56.478600"
 }

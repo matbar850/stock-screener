@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GAIN",
-    "fetch_date": "2026-07-15T17:16:14.771736",
+    "fetch_date": "2026-07-22T17:24:02.167990",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 16759000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": null,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:16:14.772393"
+  "fetched_at": "2026-07-22T17:24:02.168662"
 }

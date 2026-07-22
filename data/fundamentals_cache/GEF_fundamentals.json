@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GEF",
-    "fetch_date": "2026-07-15T17:16:39.507275",
+    "fetch_date": "2026-07-22T17:24:27.159115",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1078400000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.317,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:16:39.509742"
+  "fetched_at": "2026-07-22T17:24:27.160890"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DSP",
-    "fetch_date": "2026-07-15T17:10:20.118414",
+    "fetch_date": "2026-07-22T17:18:07.778940",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 70642000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -4.47,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:10:20.119751"
+  "fetched_at": "2026-07-22T17:18:07.781167"
 }

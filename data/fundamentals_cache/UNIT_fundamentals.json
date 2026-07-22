@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UNIT",
-    "fetch_date": "2026-07-15T17:50:59.637618",
+    "fetch_date": "2026-07-22T17:58:47.807573",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 293900000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.044,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:50:59.639828"
+  "fetched_at": "2026-07-22T17:58:47.809346"
 }

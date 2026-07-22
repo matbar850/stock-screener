@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TNL",
-    "fetch_date": "2026-07-15T17:48:49.411684",
+    "fetch_date": "2026-07-22T17:56:38.211774",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 934000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.231,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:48:49.413411"
+  "fetched_at": "2026-07-22T17:56:38.213642"
 }

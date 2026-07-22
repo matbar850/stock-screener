@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GIS",
-    "fetch_date": "2026-07-15T17:17:09.689171",
+    "fetch_date": "2026-07-22T17:24:57.204823",
     "quarterly_revenue": {
       "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.416,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:17:09.690935"
+  "fetched_at": "2026-07-22T17:24:57.206607"
 }

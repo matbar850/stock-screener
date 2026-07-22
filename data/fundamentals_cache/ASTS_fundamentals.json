@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ASTS",
-    "fetch_date": "2026-07-15T16:58:01.745937",
+    "fetch_date": "2026-07-22T17:05:51.789786",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 718000.0,
       "2025-06-30 00:00:00": 1156000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 1.137,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T16:58:01.748578"
+  "fetched_at": "2026-07-22T17:05:51.791487"
 }

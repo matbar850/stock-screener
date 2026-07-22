@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FC",
-    "fetch_date": "2026-07-15T17:13:47.250556",
+    "fetch_date": "2026-07-22T17:21:34.960254",
     "quarterly_revenue": {
       "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.086,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:13:47.253176"
+  "fetched_at": "2026-07-22T17:21:34.962073"
 }

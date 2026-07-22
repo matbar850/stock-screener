@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WDC",
-    "fetch_date": "2026-07-15T17:53:30.717024",
+    "fetch_date": "2026-07-22T18:01:19.383805",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 2294000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.407,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:53:30.718722"
+  "fetched_at": "2026-07-22T18:01:19.385683"
 }

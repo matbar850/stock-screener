@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VCYT",
-    "fetch_date": "2026-07-15T17:51:46.463343",
+    "fetch_date": "2026-07-22T17:59:35.032976",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 114473000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.154,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:51:46.465851"
+  "fetched_at": "2026-07-22T17:59:35.034785"
 }

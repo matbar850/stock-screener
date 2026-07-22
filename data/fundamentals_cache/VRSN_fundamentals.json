@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VRSN",
-    "fetch_date": "2026-07-15T17:52:42.505449",
+    "fetch_date": "2026-07-22T18:00:32.638187",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 402300000.0,
       "2025-06-30 00:00:00": 409900000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 68.45,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:52:42.506728"
+  "fetched_at": "2026-07-22T18:00:32.639801"
 }

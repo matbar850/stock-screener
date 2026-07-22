@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CTVA",
-    "fetch_date": "2026-07-15T17:07:56.852965",
+    "fetch_date": "2026-07-22T17:15:45.488181",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 4417000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.061,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:07:56.854698"
+  "fetched_at": "2026-07-22T17:15:45.489907"
 }
