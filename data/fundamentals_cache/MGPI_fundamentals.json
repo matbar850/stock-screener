@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MGPI",
-    "fetch_date": "2026-07-16T17:26:29.485986",
+    "fetch_date": "2026-07-23T17:40:00.291372",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 121653000.0,
       "2025-06-30 00:00:00": 145494000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 3.788,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-16T17:26:29.487133"
+  "fetched_at": "2026-07-23T17:40:00.292903"
 }

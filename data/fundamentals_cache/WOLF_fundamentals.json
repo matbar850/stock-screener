@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WOLF",
-    "fetch_date": "2026-07-16T17:51:46.706460",
+    "fetch_date": "2026-07-23T18:05:15.928853",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 180500000.0,
       "2025-03-31 00:00:00": 185400000.0,
@@ -31,5 +31,5 @@
     "inventory_to_sales_ratio": 2.097,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-16T17:51:46.707770"
+  "fetched_at": "2026-07-23T18:05:15.930362"
 }
