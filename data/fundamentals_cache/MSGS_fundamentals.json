@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MSGS",
-    "fetch_date": "2026-07-22T17:38:08.197892",
+    "fetch_date": "2026-07-30T14:48:57.639369",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 424197000.0,
       "2025-06-30 00:00:00": 203957000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 0.74,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T17:38:08.199372"
+  "fetched_at": "2026-07-30T14:48:57.640750"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FWONA",
-    "fetch_date": "2026-07-22T17:23:54.222746",
+    "fetch_date": "2026-07-30T14:34:43.282150",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 447000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 9.0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T17:23:54.224057"
+  "fetched_at": "2026-07-30T14:34:43.283487"
 }

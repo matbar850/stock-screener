@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FIZZ",
-    "fetch_date": "2026-07-22T17:22:27.139583",
+    "fetch_date": "2026-07-30T14:33:16.531914",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.321,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T17:22:27.141279"
+  "fetched_at": "2026-07-30T14:33:16.533676"
 }

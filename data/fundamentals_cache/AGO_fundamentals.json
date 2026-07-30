@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AGO",
-    "fetch_date": "2026-07-22T17:02:27.752350",
+    "fetch_date": "2026-07-30T14:13:17.423662",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 325000000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": -44.47674418604651,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T17:02:27.753043"
+  "fetched_at": "2026-07-30T14:13:17.424405"
 }

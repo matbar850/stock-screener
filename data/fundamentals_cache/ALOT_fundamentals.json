@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ALOT",
-    "fetch_date": "2026-07-22T17:03:25.828038",
+    "fetch_date": "2026-07-30T14:14:15.382093",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-04-30 00:00:00": 37708000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 1.116,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T17:03:25.830671"
+  "fetched_at": "2026-07-30T14:14:15.383900"
 }
