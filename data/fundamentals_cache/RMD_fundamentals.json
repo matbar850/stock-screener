@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RMD",
-    "fetch_date": "2026-07-27T18:21:24.146043",
+    "fetch_date": "2026-08-04T15:13:22.829636",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1291736000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.637,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-27T18:21:24.147508"
+  "fetched_at": "2026-08-04T15:13:22.831120"
 }
