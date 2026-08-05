@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SAIL",
-    "fetch_date": "2026-07-28T18:02:30.549331",
+    "fetch_date": "2026-08-05T15:08:17.184702",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 230468000.0,
       "2025-07-31 00:00:00": 264359000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -28.49,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-28T18:02:30.550265"
+  "fetched_at": "2026-08-05T15:08:17.185833"
 }
