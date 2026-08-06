@@ -1,18 +1,18 @@
 {
   "data": {
     "ticker": "FTRE",
-    "fetch_date": "2026-07-30T14:34:32.181013",
+    "fetch_date": "2026-08-06T14:44:51.369606",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
-      "2025-03-31 00:00:00": 651300000.0,
+      "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 710300000.0,
       "2025-09-30 00:00:00": 701300000.0,
       "2025-12-31 00:00:00": 660500000.0,
       "2026-03-31 00:00:00": 636500000.0,
-      "2026-06-30 00:00:00": NaN
+      "2026-06-30 00:00:00": 678200000.0
     },
-    "revenue_qoq_change": null,
-    "revenue_yoy_change": null,
+    "revenue_qoq_change": 6.551453260015711,
+    "revenue_yoy_change": -4.519217232155428,
     "quarterly_eps": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -24,10 +24,10 @@
     },
     "eps_qoq_change": 43.99999999999999,
     "eps_yoy_change": 96.61835748792271,
-    "gross_margin": NaN,
-    "margin_change": NaN,
-    "operating_margin": NaN,
+    "gross_margin": 20.52,
+    "margin_change": 1.11,
+    "operating_margin": 2.58,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T14:34:32.182332"
+  "fetched_at": "2026-08-06T14:44:51.370997"
 }

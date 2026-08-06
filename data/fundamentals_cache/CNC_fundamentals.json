@@ -1,18 +1,18 @@
 {
   "data": {
     "ticker": "CNC",
-    "fetch_date": "2026-07-30T14:24:41.620760",
+    "fetch_date": "2026-08-06T14:35:02.283171",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
-      "2025-03-31 00:00:00": 46620000000.0,
+      "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 48742000000.0,
       "2025-09-30 00:00:00": 49690000000.0,
       "2025-12-31 00:00:00": 49725000000.0,
       "2026-03-31 00:00:00": 49944000000.0,
-      "2026-06-30 00:00:00": NaN
+      "2026-06-30 00:00:00": 53579000000.0
     },
-    "revenue_qoq_change": null,
-    "revenue_yoy_change": null,
+    "revenue_qoq_change": 7.27815152971328,
+    "revenue_yoy_change": 9.923679783349062,
     "quarterly_eps": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -24,10 +24,10 @@
     },
     "eps_qoq_change": -29.581993569131832,
     "eps_yoy_change": 529.4117647058823,
-    "gross_margin": NaN,
-    "margin_change": NaN,
-    "operating_margin": NaN,
+    "gross_margin": 8.59,
+    "margin_change": -2.54,
+    "operating_margin": 2.24,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T14:24:41.622126"
+  "fetched_at": "2026-08-06T14:35:02.284500"
 }

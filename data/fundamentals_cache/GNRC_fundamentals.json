@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GNRC",
-    "fetch_date": "2026-07-30T14:36:12.431225",
+    "fetch_date": "2026-08-06T14:46:31.685030",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 942121000.0,
@@ -28,7 +28,6 @@
     "margin_change": NaN,
     "operating_margin": NaN,
     "quarterly_inventory": {
-      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1095082000.0,
       "2025-06-30 00:00:00": 1254133000.0,
       "2025-09-30 00:00:00": 1329687000.0,
@@ -39,5 +38,5 @@
     "inventory_to_sales_ratio": NaN,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T14:36:12.433186"
+  "fetched_at": "2026-08-06T14:46:31.686877"
 }

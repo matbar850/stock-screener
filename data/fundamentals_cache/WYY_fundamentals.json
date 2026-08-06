@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WYY",
-    "fetch_date": "2026-07-30T15:13:21.546512",
+    "fetch_date": "2026-08-06T15:23:39.260990",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 33510039.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.01,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T15:13:21.548179"
+  "fetched_at": "2026-08-06T15:23:39.262844"
 }
