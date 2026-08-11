@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BAH",
-    "fetch_date": "2026-08-03T14:54:44.047743",
+    "fetch_date": "2026-08-11T13:20:48.129218",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 9.96,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-03T14:54:44.049083"
+  "fetched_at": "2026-08-11T13:20:48.130566"
 }
