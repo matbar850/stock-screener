@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "OTIS",
-    "fetch_date": "2026-08-04T15:07:32.593342",
+    "fetch_date": "2026-08-12T14:00:48.446977",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 3595000000.0,
       "2025-09-30 00:00:00": 3690000000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.178,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T15:07:32.594833"
+  "fetched_at": "2026-08-12T14:00:48.450040"
 }

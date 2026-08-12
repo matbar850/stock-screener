@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BOOT",
-    "fetch_date": "2026-08-04T14:33:49.246924",
+    "fetch_date": "2026-08-12T13:27:02.814295",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 504067000.0,
       "2025-09-30 00:00:00": 505396000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 1.516,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T14:33:49.248422"
+  "fetched_at": "2026-08-12T13:27:02.816102"
 }
