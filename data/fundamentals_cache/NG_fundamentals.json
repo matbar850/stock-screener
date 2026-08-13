@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NG",
-    "fetch_date": "2026-08-05T14:57:43.198514",
+    "fetch_date": "2026-08-13T13:59:01.382639",
     "quarterly_revenue": {
       "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T14:57:43.199604"
+  "fetched_at": "2026-08-13T13:59:01.383894"
 }

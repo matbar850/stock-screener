@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BBWI",
-    "fetch_date": "2026-08-03T14:55:10.433660",
+    "fetch_date": "2026-08-13T13:26:49.070721",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 1424000000.0,
       "2025-07-31 00:00:00": 1549000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.567,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-03T14:55:10.435825"
+  "fetched_at": "2026-08-13T13:26:49.072438"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LBRDA",
-    "fetch_date": "2026-08-05T14:51:20.267393",
+    "fetch_date": "2026-08-13T13:52:38.490358",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -27,5 +27,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T14:51:20.268274"
+  "fetched_at": "2026-08-13T13:52:38.491321"
 }
