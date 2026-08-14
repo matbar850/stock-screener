@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PECO",
-    "fetch_date": "2026-08-06T15:05:31.953239",
+    "fetch_date": "2026-08-14T13:58:45.847178",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.208,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T15:05:31.955110"
+  "fetched_at": "2026-08-14T13:58:45.849054"
 }

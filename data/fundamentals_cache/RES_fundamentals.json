@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RES",
-    "fetch_date": "2026-08-06T15:09:28.223120",
+    "fetch_date": "2026-08-14T14:02:43.087047",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 420809000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.273,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T15:09:28.224997"
+  "fetched_at": "2026-08-14T14:02:43.089018"
 }

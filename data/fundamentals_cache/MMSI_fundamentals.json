@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MMSI",
-    "fetch_date": "2026-08-06T14:58:25.942956",
+    "fetch_date": "2026-08-14T13:51:38.825470",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 382462000.0,
       "2025-09-30 00:00:00": 384157000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.893,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:58:25.944724"
+  "fetched_at": "2026-08-14T13:51:38.827322"
 }
