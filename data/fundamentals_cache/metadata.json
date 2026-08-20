@@ -7480,8 +7480,8 @@
     "in_earnings_season": true
   },
   "REFI": {
-    "last_updated": "2026-05-04T15:08:52.873941",
-    "in_earnings_season": true
+    "last_updated": "2026-08-20T13:43:39.622930",
+    "in_earnings_season": false
   },
   "TNET": {
     "last_updated": "2026-08-14T14:10:58.046423",
@@ -10149,6 +10149,14 @@
   },
   "PKOH": {
     "last_updated": "2026-08-19T13:38:43.302864",
+    "in_earnings_season": false
+  },
+  "FRPH": {
+    "last_updated": "2026-08-20T13:18:52.640238",
+    "in_earnings_season": false
+  },
+  "IA": {
+    "last_updated": "2026-08-20T13:24:20.700758",
     "in_earnings_season": false
   }
 }
