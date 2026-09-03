@@ -8844,7 +8844,7 @@
     "in_earnings_season": true
   },
   "TVA": {
-    "last_updated": "2026-03-05T14:15:37.802197",
+    "last_updated": "2026-09-03T17:03:37.536617",
     "in_earnings_season": false
   },
   "DT": {
@@ -10205,6 +10205,10 @@
   },
   "PNRG": {
     "last_updated": "2026-09-02T17:01:37.780445",
+    "in_earnings_season": false
+  },
+  "HBB": {
+    "last_updated": "2026-09-03T16:32:42.578089",
     "in_earnings_season": false
   }
 }
