@@ -5928,7 +5928,7 @@
     "in_earnings_season": true
   },
   "STAA": {
-    "last_updated": "2025-12-04T14:13:21.387383",
+    "last_updated": "2026-09-10T16:59:32.263580",
     "in_earnings_season": false
   },
   "STBA": {
@@ -8728,8 +8728,8 @@
     "in_earnings_season": false
   },
   "ARCT": {
-    "last_updated": "2026-05-11T15:34:09.274275",
-    "in_earnings_season": true
+    "last_updated": "2026-09-10T16:10:45.018292",
+    "in_earnings_season": false
   },
   "ELMD": {
     "last_updated": "2026-08-04T14:43:54.314017",
@@ -9032,7 +9032,7 @@
     "in_earnings_season": true
   },
   "JILL": {
-    "last_updated": "2026-04-02T14:15:53.924624",
+    "last_updated": "2026-09-10T16:36:49.056087",
     "in_earnings_season": false
   },
   "CSV": {
@@ -10225,6 +10225,10 @@
   },
   "HOS": {
     "last_updated": "2026-09-09T16:42:15.379408",
+    "in_earnings_season": false
+  },
+  "CBC": {
+    "last_updated": "2026-09-10T16:17:02.930102",
     "in_earnings_season": false
   }
 }
