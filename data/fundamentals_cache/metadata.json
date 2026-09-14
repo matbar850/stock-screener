@@ -92,7 +92,7 @@
     "in_earnings_season": true
   },
   "ACI": {
-    "last_updated": "2026-05-19T15:41:47.389099",
+    "last_updated": "2026-09-14T17:56:38.703796",
     "in_earnings_season": false
   },
   "ACIC": {
@@ -7744,7 +7744,7 @@
     "in_earnings_season": true
   },
   "PPIH": {
-    "last_updated": "2026-06-09T16:06:21.533601",
+    "last_updated": "2026-09-14T18:40:52.989072",
     "in_earnings_season": false
   },
   "SMPL": {
@@ -10229,6 +10229,10 @@
   },
   "CBC": {
     "last_updated": "2026-09-10T16:17:02.930102",
+    "in_earnings_season": false
+  },
+  "FLXS": {
+    "last_updated": "2026-09-14T18:17:55.082023",
     "in_earnings_season": false
   }
 }
