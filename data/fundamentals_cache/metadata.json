@@ -756,7 +756,7 @@
     "in_earnings_season": true
   },
   "BAND": {
-    "last_updated": "2025-12-04T13:38:27.062474",
+    "last_updated": "2026-09-29T18:00:16.308276",
     "in_earnings_season": false
   },
   "BAP": {
@@ -10277,6 +10277,10 @@
   },
   "WSBF": {
     "last_updated": "2026-09-28T20:28:37.791170",
+    "in_earnings_season": false
+  },
+  "VRME": {
+    "last_updated": "2026-09-29T18:53:31.461549",
     "in_earnings_season": false
   }
 }
